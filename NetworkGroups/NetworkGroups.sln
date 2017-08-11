@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetworkGroups", "NetworkGroups\NetworkGroups.vcxproj", "{A0CFABD4-22DD-4972-A3AD-D48F80D3AB11}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GraphAPIs", "GraphAPIs\GraphAPIs.vcxproj", "{09D74D3B-79EE-45B7-AC43-1D9E9109C152}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DibAPIs", "DibAPIs\DibAPIs.vcxproj", "{9C922C4A-0788-446C-8980-718CA804C719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0CFABD4-22DD-4972-A3AD-D48F80D3AB11}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A0CFABD4-22DD-4972-A3AD-D48F80D3AB11}.Debug|Win32.Build.0 = Debug|Win32
+		{A0CFABD4-22DD-4972-A3AD-D48F80D3AB11}.Release|Win32.ActiveCfg = Release|Win32
+		{A0CFABD4-22DD-4972-A3AD-D48F80D3AB11}.Release|Win32.Build.0 = Release|Win32
+		{09D74D3B-79EE-45B7-AC43-1D9E9109C152}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09D74D3B-79EE-45B7-AC43-1D9E9109C152}.Debug|Win32.Build.0 = Debug|Win32
+		{09D74D3B-79EE-45B7-AC43-1D9E9109C152}.Release|Win32.ActiveCfg = Release|Win32
+		{09D74D3B-79EE-45B7-AC43-1D9E9109C152}.Release|Win32.Build.0 = Release|Win32
+		{9C922C4A-0788-446C-8980-718CA804C719}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C922C4A-0788-446C-8980-718CA804C719}.Debug|Win32.Build.0 = Debug|Win32
+		{9C922C4A-0788-446C-8980-718CA804C719}.Release|Win32.ActiveCfg = Release|Win32
+		{9C922C4A-0788-446C-8980-718CA804C719}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
